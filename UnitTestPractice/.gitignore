@@ -1,0 +1,17 @@
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+
+.vs/
+
+*.nupkg
+*.snupkg*
